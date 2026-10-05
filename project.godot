@@ -14,6 +14,10 @@ config/name="Cot Truyen Game"
 run/main_scene="res://scenes/prototype/bootstrap.tscn"
 config/features=PackedStringArray("4.7")
 
+[autoload]
+
+MCPRuntimeProbe="*res://addons/godot_mcp/mcp_runtime_probe.gd"
+
 [display]
 
 window/size/viewport_width=1280
