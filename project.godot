@@ -1,0 +1,14 @@
+; Engine configuration file.
+; Bootstrap target: Godot 4.7.x
+config_version=5
+
+[application]
+
+config/name="Cot Truyen Game"
+run/main_scene="res://scenes/prototype/bootstrap.tscn"
+
+[display]
+
+window/size/viewport_width=1280
+window/size/viewport_height=720
+window/stretch/mode="canvas_items"

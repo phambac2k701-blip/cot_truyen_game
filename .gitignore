@@ -1,0 +1,23 @@
+# Godot generated/import cache
+.godot/
+.import/
+
+# Mono / IDE
+.mono/
+.vscode/
+.idea/
+
+# OS/editor noise
+.DS_Store
+Thumbs.db
+*.tmp
+*.bak
+*~
+
+# Export credentials / local secrets
+export_credentials.cfg
+
+# Local AI/MCP machine config
+.mcp.local.json
+.env
+.env.*
